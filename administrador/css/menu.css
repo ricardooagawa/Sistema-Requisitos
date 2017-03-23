@@ -1,0 +1,49 @@
+.menu-icone
+{
+    width: 180px;
+    height: 180px;
+    border: 2px solid !important;
+    border-color: #B5B5B5 !important;
+    background-color: #E8E8E8 !important;
+    margin: 10px 10px 35px 60px;
+    border-radius: 100%;
+}
+
+.menu-icone img
+{
+    margin: 25px 30px 30px 30px;
+}
+
+.menu
+{
+    margin-left: 20% !important;
+    width: 100%;
+    color: white !important;
+}
+
+.icone-menu
+{
+    width: 180px;
+    height: 180px;
+    border: 5px solid !important;
+    border-color: #346633 !important;
+    background: rgba(230, 228, 229, 0.8) !important;
+    border-radius: 100%;
+}
+
+.icone-menu:hover
+{
+    width: 180px;
+    height: 180px;
+    border: 5px solid !important;
+    border-color: #c2ddb0 !important;
+    background: rgba(244, 242, 241, 0.5) !important;
+    border-radius: 100%;
+}
+
+.icone-menu img
+{
+    margin: 25px 25px 25px 25px;
+    width: 120px;
+    height: 120px;
+}

@@ -1,0 +1,70 @@
+#login label
+{
+    visibility: hidden !important;
+}
+
+#login-content
+{
+   width: 50%;
+}
+
+.login-bg
+{
+    background-image: url(../images/bg-login.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: white;
+}
+
+.btn-login
+{
+    border-radius: 100% !important; 
+    width: 140px !important; 
+    height: 140px !important; 
+    border: 10px white solid !important;  
+    background: #346633 !important;
+    position: relative !important; 
+    top: 50px !important;
+}
+
+.btn-login:hover
+{
+    border-radius: 100% !important; 
+    width: 140px !important; 
+    height: 140px !important; 
+    border: 10px #CD3333 solid !important; 
+    background: #CD5C5C !important;
+    position: relative !important; 
+    top: 50px !important;
+}
+
+.logo-login
+{
+    margin: 1% !important; 
+}
+
+.logo-login img
+{
+    width: auto;
+    height: 10%;
+}
+
+@media screen and (max-width: 992px) 
+{
+    
+    #login-content
+    {
+       width: 100%;
+    }
+    
+    .input
+    {
+        width: 100% !important;
+    }
+    
+    .logo-login h3
+    {
+        font-size: 10pt;
+    }
+}
+

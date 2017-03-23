@@ -1,0 +1,64 @@
+<?php
+return array(			
+
+    //Assunto
+        'cod_assunto'                       => 'Interação',
+        'des_assunto'                       => 'Interação',
+        'des_descricao'                     => 'Detalhamento',
+        'dat_inicio'                        => 'Início Requisitos',
+        'dat_termino'                       => 'Término Requisitos',
+        'dat_cadastro'                      => 'Data de Cadastro',
+        'dat_atualizacao'                   => '',
+        'cod_id_usuario'                    => '',
+        
+    //Funcionalidade
+        'cod_funcionalidade'                => 'Funcionalidade',
+        'des_funcionalidade'                => 'Funcionalidade',
+    
+    //Funcionalidade Ação 
+        'cod_funcionalidade_acao'           => 'Ação',
+        'cod_acao'                          => '',
+    
+    //Log
+        'des_log'                           => 'Descrição',
+        'des_ip'                            => 'IP',
+       
+    //Parâmetro
+        'cod_parametro'                     => 'Código Parâmetro',
+        'des_parametro'                     => 'Parâmetro',
+        'des_sigla'                         => 'Sigla',
+        'val_parametro'                     => 'Valor do Parâmetro',
+       
+    //Perfil 
+        'cod_perfil'                        => 'Perfil',
+        'des_perfil'                        => 'Perfil',
+    
+    //Perfil Funcionalidade
+        'cod_perfil_funcionalidade'         => '',
+        'cod_perfil'                        => 'Perfil',
+    
+    //Projeto
+        'cod_projeto'                       => 'Projeto',
+        'des_projeto'                       => 'Projeto',
+        'flg_ativo'                         => 'Ativo?',
+    
+    //Resposta
+        'cod_resposta'                      => 'Resposta',
+        'des_resposta'                      => 'Resposta',
+        
+    //Resposta - Tópico
+        'cod_resposta_topico'               => 'Resposta do Tópico',
+        'des_resposta_topico'               => 'Tópico',
+    
+    //Usuário 
+        'cod_usuario'                       => 'Usuário',
+        'nom_usuario'                       => 'Usuário',
+        'des_email'                         => 'E-mail',
+        'des_login'                         => 'Login',
+        'des_senha'                         => 'Senha',
+    
+    //Tópico
+        'cod_assunto_topico'                => 'Tópico',
+        'des_topico'                        => 'Tópico',
+);
+?>
